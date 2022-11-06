@@ -1,0 +1,8 @@
+bin/
+generated/
+include/
+etc/
+lib/
+share
+lib64
+pyvenv.*
